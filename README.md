@@ -3,6 +3,9 @@
 kmeans1d
 ========
 
+> [!IMPORTANT]
+> The only change in this fork is support for weighted clustering, extracted from Apple's [coremltools project](https://github.com/apple/coremltools/tree/bba83f43859e087d50c7d764cb132e7d4b427611/deps/kmeans1d).
+
 A Python library with an implementation of *k*-means clustering on 1D data, based on the algorithm
 from Xiaolin (1991), as presented by Gronlund et al. (2017, Section 2.2).
 
